@@ -1,0 +1,85 @@
+/* CLASS PER ICON (FOR < IE9 COMPATIBILITY) */
+.icon-aquent-large, .icon-aquent-small, .icon-vt, .icon-gymnasium, .icon-firebrand-large, .icon-firebrand-small, .icon-ama, .icon-tweet, .icon-facebook, .icon-google-plus, .icon-pinterest, .icon-linkedin, .icon-lock, .icon-magnifier, .icon-email, .icon-left-arrow, .icon-up-arrow, .icon-right-arrow, .icon-down-arrow, .icon-select-left, .icon-select-up, .icon-select-right, .icon-select-down, .icon-play {
+  font-family: 'Aquent-Magic';
+  content: attr(data-icon);
+  speak: none;
+  font-weight: 100;
+  font-variant: normal;
+  font-stretch: normal;
+  text-transform: none;
+  line-height: 1;
+  background-clip: text;
+  display:inline-block;
+}
+.icon-aquent-large:before {
+  content: "\2648";
+}
+.icon-aquent-small:before {
+  content: "\2649";
+}
+.icon-vt:before {
+  content: "\264a";
+}
+.icon-gymnasium:before {
+  content: "\264b";
+}
+.icon-firebrand-large:before {
+  content: "\264c";
+}
+.icon-firebrand-small:before {
+  content: "\264d";
+}
+.icon-ama:before {
+  content: "\264e";
+}
+.icon-tweet:before {
+  content: "\264f";
+}
+.icon-facebook:before {
+  content: "\2650";
+}
+.icon-google-plus:before {
+  content: "\2651";
+}
+.icon-pinterest:before {
+  content: "\2652";
+}
+.icon-linkedin:before {
+  content: "\2653";
+}
+.icon-lock:before {
+  content: "\1f512";
+}
+.icon-magnifier:before {
+  content: "\2315";
+}
+.icon-email:before {
+  content: "\2709";
+}
+.icon-left-arrow:before {
+  content: "\261c";
+}
+.icon-up-arrow:before {
+  content: "\261d";
+}
+.icon-right-arrow:before {
+  content: "\261e";
+}
+.icon-down-arrow:before {
+  content: "\261f";
+}
+.icon-select-left:before {
+  content: "\2190";
+}
+.icon-select-up:before {
+  content: "\2191";
+}
+.icon-select-right:before {
+  content: "\2192";
+}
+.icon-select-down:before {
+  content: "\2193";
+}
+.icon-play:before {
+  content: "\25b7";
+}
