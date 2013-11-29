@@ -1,15 +1,14 @@
-/* CLASS PER ICON (FOR < IE9 COMPATIBILITY) */
-.icon-aquent-large, .icon-aquent-small, .icon-vt, .icon-gymnasium, .icon-firebrand-large, .icon-firebrand-small, .icon-ama, .icon-tweet, .icon-facebook, .icon-google-plus, .icon-pinterest, .icon-linkedin, .icon-lock, .icon-magnifier, .icon-email, .icon-left-arrow, .icon-up-arrow, .icon-right-arrow, .icon-down-arrow, .icon-select-left, .icon-select-up, .icon-select-right, .icon-select-down, .icon-play, .icon-youtube-2, .icon-google-plus-2, .icon-google-plus-3, .icon-talent-ignition, .icon-lock-2, .icon-youtube-1, .icon-flickr-1, .icon-viadeo, .icon-flickr-2, .icon-xing, .icon-rss, .icon-plaxo, .icon-meetup-1, .icon-meetup-2 {
+.icon-aquent-large, .icon-aquent-small, .icon-vt, .icon-gymnasium, .icon-firebrand-large, .icon-firebrand-small, .icon-ama, .icon-tweet, .icon-facebook, .icon-google-plus, .icon-pinterest, .icon-linkedin, .icon-lock, .icon-magnifier, .icon-email, .icon-left-arrow, .icon-up-arrow, .icon-right-arrow, .icon-down-arrow, .icon-select-left, .icon-select-up, .icon-select-right, .icon-select-down, .icon-play, .icon-youtube-2, .icon-google-plus-2, .icon-google-plus-3, .icon-talent-ignition, .icon-lock-2, .icon-youtube-1, .icon-flickr-1, .icon-viadeo, .icon-flickr-2, .icon-xing, .icon-rss, .icon-plaxo, .icon-meetup-1, .icon-meetup-2, .icon-email-2 {
   font-family: 'Aquent-Magic';
-  content: attr(data-icon);
   speak: none;
+  font-style: normal;
   font-weight: 100;
   font-variant: normal;
-  font-stretch: normal;
   text-transform: none;
   line-height: 1;
-  background-clip: text;
+  -webkit-font-smoothing: antialiased;
   display:inline-block;
+  background-clip: text;
 }
 .icon-aquent-large:before {
   content: "\2648";
@@ -124,4 +123,7 @@
 }
 .icon-meetup-2:before {
   content: "\263d";
+}
+.icon-email-2:before {
+  content: "\263e";
 }
