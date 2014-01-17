@@ -74,7 +74,12 @@ window.onload = function() {
 			'icon-badge-calendar' : '&#x2752;',
 			'icon-badge-speech-bubble' : '&#x2753;',
 			'icon-badge-star' : '&#x2754;',
-			'icon-badge-webcast' : '&#x2755;'
+			'icon-badge-webcast' : '&#x2755;',
+			'icon-badge-vitamail' : '&#x2756;',
+			'icon-badge-medal' : '&#x2759;',
+			'icon-badge-cursor' : '&#x275a;',
+			'icon-badge-newsletter' : '&#x2757;',
+			'icon-badge-trends' : '&#x2758;'
 		},
 		els = document.getElementsByTagName('*'),
 		i, attr, c, el;
