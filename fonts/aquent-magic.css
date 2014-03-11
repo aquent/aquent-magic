@@ -1,12 +1,12 @@
 @charset "UTF-8";
-/* 3.2.5 */
+/* 3.2.6 */
 @font-face {
   font-family: 'Aquent-Magic';
   src:url('Aquent-Magic.eot');
   src:url('Aquent-Magic.eot?#iefix') format('embedded-opentype'),
+    url('Aquent-Magic.svg#Aquent-Magic') format('svg'),
     url('Aquent-Magic.woff') format('woff'),
-    url('Aquent-Magic.ttf') format('truetype'),
-    url('Aquent-Magic.svg#Aquent-Magic') format('svg');
+    url('Aquent-Magic.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-variant: normal;
