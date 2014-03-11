@@ -2,9 +2,9 @@
 	font-family: 'Aquent-Magic';
 	src:url('fonts/Aquent-Magic.eot');
 	src:url('fonts/Aquent-Magic.eot?#iefix') format('embedded-opentype'),
+		url('fonts/Aquent-Magic.svg#Aquent-Magic') format('svg'),
 		url('fonts/Aquent-Magic.woff') format('woff'),
-		url('fonts/Aquent-Magic.ttf') format('truetype'),
-		url('fonts/Aquent-Magic.svg#Aquent-Magic') format('svg');
+		url('fonts/Aquent-Magic.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
