@@ -266,3 +266,24 @@
 .icon-badge-trends:before {
   content: "\2758";
 }
+.icon-computer:before {
+  content: "\265e";
+}
+.icon-building:before {
+  content: "\265f";
+}
+.icon-segment-1:before {
+  content: "\2660";
+}
+.icon-segment-2:before {
+  content: "\2661";
+}
+.icon-segment-3:before {
+  content: "\2662";
+}
+.icon-segment-4:before {
+  content: "\2663";
+}
+.icon-location:before {
+  content: "\2664";
+}
